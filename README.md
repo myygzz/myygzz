@@ -42,30 +42,62 @@ I'm currently developing my skills in embedded systems, programming, and smart e
 - Pandas
 - Matplotlib
 
-## 🌍 Languages
+##🌍 Languages
 
-- Filipino / Tagalog — Fluent
-- English — Fluent
-- Mandarin Chinese — HSK 4
+- 🇵🇭 Filipino / Tagalog — Fluent
+- 🇬🇧 English — Fluent
+- 🇨🇳 Mandarin Chinese — HSK 4
 
-## 🚀 Current Focus
+##🚀 Featured Projects
 
-- Building ESP32-based IoT projects
-- Exploring Smart Energy Management
-- Learning Python for data analysis
-- Developing embedded systems applications
+**1. ⚡ Python Energy Consumption Analyzer**
 
-## 📌 Featured Projects
+Status: Completed – v1.0
 
-Coming soon:
+A beginner Python project focused on analyzing daily electricity consumption and visualizing energy usage.
 
-- Smart Dorm AC Monitor — ESP32-based temperature monitoring and AC control.
-- Smart Energy Monitoring — Energy consumption analysis using Python.
+Technologies: Python, CSV, Matplotlib
 
-## 🎯 Career Interests
+- Reads electricity consumption data from CSV files.
+- Calculates total and average energy consumption.
+- Identifies peak consumption days.
+- Generates electricity consumption visualizations.
 
-IoT Engineering | Embedded Systems | Renewable Energy | Smart Energy | Industrial Automation
+["View Project"](https://github.com/myygzz/python-energy-consumption-analyzer)
 
----
+**2. 🏠 ESP32 Smart Dorm AC Monitor**
 
-*Always learning, building, and exploring new technologies.*
+Status: Planning / Development
+
+An IoT-based project designed to monitor dormitory temperature and humidity while enabling infrared-based air conditioner control.
+
+Planned Technologies: ESP32, C/C++, DHT11, OLED, Infrared Communication.
+
+- Real-time temperature and humidity monitoring.
+- OLED data visualization.
+- Infrared air conditioner control.
+- Future remote monitoring capabilities.
+
+"View Project"
+
+##📚 Current Learning Focus
+
+- Python for data analysis
+- ESP32 development and embedded programming
+- IoT communication and sensor integration
+- Smart Energy Management
+- Git and GitHub project development
+
+##🎯 Career Interests
+
+- Internet of Things Engineering
+- Embedded Systems
+- Renewable Energy Technologies
+- Smart Energy Management
+- Industrial Automation
+
+##📫 Connect With Me
+
+- GitHub: ["My GitHub Profile"](https://github.com/myygzz)
+
+Always learning, building, and exploring new technologies. 🚀
