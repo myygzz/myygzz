@@ -42,13 +42,13 @@ I'm currently developing my skills in embedded systems, programming, and smart e
 - Pandas
 - Matplotlib
 
-##🌍 Languages
+## 🌍 Languages
 
 - 🇵🇭 Filipino / Tagalog — Fluent
 - 🇬🇧 English — Fluent
 - 🇨🇳 Mandarin Chinese — HSK 4
 
-##🚀 Featured Projects
+## 🚀 Featured Projects
 
 **1. ⚡ Python Energy Consumption Analyzer**
 
@@ -63,7 +63,7 @@ Technologies: Python, CSV, Matplotlib
 - Identifies peak consumption days.
 - Generates electricity consumption visualizations.
 
-["View Project"](https://github.com/myygzz/python-energy-consumption-analyzer)
+[View Project](https://github.com/myygzz/python-energy-consumption-analyzer)
 
 **2. 🏠 ESP32 Smart Dorm AC Monitor**
 
@@ -78,9 +78,9 @@ Planned Technologies: ESP32, C/C++, DHT11, OLED, Infrared Communication.
 - Infrared air conditioner control.
 - Future remote monitoring capabilities.
 
-"View Project"
+View Project
 
-##📚 Current Learning Focus
+## 📚 Current Learning Focus
 
 - Python for data analysis
 - ESP32 development and embedded programming
@@ -88,7 +88,7 @@ Planned Technologies: ESP32, C/C++, DHT11, OLED, Infrared Communication.
 - Smart Energy Management
 - Git and GitHub project development
 
-##🎯 Career Interests
+## 🎯 Career Interests
 
 - Internet of Things Engineering
 - Embedded Systems
@@ -96,8 +96,8 @@ Planned Technologies: ESP32, C/C++, DHT11, OLED, Infrared Communication.
 - Smart Energy Management
 - Industrial Automation
 
-##📫 Connect With Me
+## 📫 Connect With Me
 
-- GitHub: ["My GitHub Profile"](https://github.com/myygzz)
+- GitHub: [My GitHub Profile](https://github.com/myygzz)
 
 Always learning, building, and exploring new technologies. 🚀
