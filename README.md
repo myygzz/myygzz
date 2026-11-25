@@ -94,8 +94,5 @@ View Project
 - Smart Energy Management
 - Industrial Automation
 
-## 📫 Connect With Me
-
-- GitHub: [My GitHub Profile](https://github.com/myygzz)
 
 Always learning, building, and exploring new technologies. 🚀
