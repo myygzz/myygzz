@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hello, I'm Antonio Miguel Omoto 👋
+# Antonio Miguel Omoto
 
 ### IoT Engineering Student | Renewable Energy Background
 
